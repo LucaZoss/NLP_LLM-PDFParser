@@ -1,0 +1,289 @@
+BNP PARIBAS
+The bank for a changing world
+CORPORATE & INSTITUTIONAL BANKING
+Final Term Sheet
+Final Terms and Conditions (our ref. CE3917RAI) as of November 10h
+2021
+,
+18M Certificate Plus Worst-of on DAI GY, RNO FP, VOW3 GY,
+PAH3 GY and GM UN with equally weighted performance on the
+upside in USD
+Issuer
+BNP Paribas Issuance B.V. (S&P's A)
+Guarantor
+BNP Paribas (S&P's A / Moody's Aa3 / Fitch A+)
+Issue Type
+Certificate
+_____________________________________________________________________________________________________________________________
+__________________________________________
+Issue Amount
+USD 1,250,000
+Number of
+Certificates
+1,250
+Notional
+Amount per
+1 Certificate = USD 1,000
+Certificate (N)
+Currency
+USD
+Issue Price per
+Certificate
+100%
+Listing
+None
+_____________________________________________________________________________________________________________________________
+__________________________________________
+Trade Date
+November 10
+th
+2021
+,
+Strike Date
+November 10th, 2021
+Issue Date
+November 24th, 2021
+Redemption
+Valuation Date
+May 10th, 2023
+Redemption
+Date
+May 24th, 2023
+_____________________________________________________________________________________________________________________________
+__________________________________________
+Underlying
+Shares
+i
+Name of Underlying Sharei
+Bloomberg Code
+Sharei
+Initial
+wi
+1
+Renault SA
+RNO FP
+34.3
+20%
+2
+Volkswagen AG
+VOW3 GY
+185.6
+20%
+3
+Daimler AG
+DAI GY
+88.09
+20%
+Porsche Automobil Holding SE
+PAH3 GY
+85.86
+20%
+General Motors Co
+GM UN
+59.27
+20%
+Final
+On the Redemption Date, the Issuer shall redeem each Certificate at the following Cash Settlement
+Redemption
+Amount:
+1)
+If a Knock-out Event has not occurred:
+𝑁 × [100% + 𝑀𝑎𝑥 (10%, (
+𝐵𝑎𝑠𝑘𝑒𝑡𝑓𝑖𝑛𝑎𝑙
+100%) )]
+−
+𝐵𝑎𝑠𝑘𝑒𝑡𝑖𝑛𝑖𝑡𝑖𝑎𝑙
+2)
+If a Knock-out Event has occurred :
+Equity Derivatives Solutions / Structured Products - Luxemburg
+1
+
+BNP PARIBAS
+CORPORATE & INSTITUTIONAL BANKING
+The bank for a changing world
+WO ShareFinal
+N & WO Share Initial
+Where
+WO Share is the Underlying Share with the worst performance from the Strike Date to the Redemption
+Valuation Date, defined as:
+Share Final
+min
+[=1,2,3,4,5 |Share Initial
+BasketFinal
+wix
+ShareFinal
+Share initial
+Basketinitial = 100%
+WO ShareInitial is the official closing price of WO Share on the Strike Date.
+WO ShareFinal is the official closing price of WO Share on the Redemption Valuation Date.
+Share'initial with i from 1 to 5 is the official closing price of the Share' on the Strike Date.
+Share'Final with i from 1 to 5 is the official closing price of the Share' on the Redemption Valuation Date.
+Knock-out
+Price
+Name of Underlying Share
+Bloomberg Code Knock-out Price (60% of Share'initial )
+Renault SA
+RNO FP
+TBD
+Volkswagen AG
+VOW3 GY
+TBD
+Daimler AG
+DAI GY
+TBD
+Porsche Automobil Holding SE
+PAH3 GY
+TBD
+General Motors Co
+GM UN
+TBD
+Knock-out
+Determination
+Redemption Valuation Date
+Day
+Knock-out
+Valuation Time
+Day
+Specific Scheduled Closing time of each Underlying Share on the Knock-out Determination
+Knock-out
+A Knock-out Event shall be deemed to occur if, on the Knock-out Determination Day, at least one Underlying
+Event
+Share trades at a price strictly less than its Knock-out Price.
+Business Day
+Convention
+Following Business Day
+Payment
+Business Days
+New York
+Calculation
+Agent
+BNP Paribas Arbitrage S.N.C.
+Governing Law English
+Documentation The securities will be issued under the Issuer's Warrant and Certificate Programme (the "Programme") by
+way of Final Terms. Copies of the Programme's base prospectus (the "Base Prospectus") dated 8 June
+2018 (which sets out the terms and conditions to be completed by the Final Terms) and any supplements
+thereto are available from BNP Paribas Arbitrage S.N.C. on request.
+In the event of any inconsistency between this termsheet and the Final Terms relating to the Certificates,
+the Final Terms will prevail.
+Form
+Clearing System Global Certificate
+Equity Derivatives Solutions / Structured Products - Luxemburg
+2
+
+BNP PARIBAS
+CORPORATE & INSTITUTIONAL BANKING
+|The bank for a changing world
+Codes
+ISIN: XS2317910607
+Common:
+Valoren : CH1119157548
+Reuters Ric for
+Structure
+=BNPP
+Common
+Depositary
+BNP Paribas Securities Services, Luxembourg Branch
+Minimum
+Trading Size
+1 Certificate (and multiples of 1 Certificate thereafter)
+Secondary
+Daily price indications including accrued interest (dirty) will be published on Reuters and Bloomberg.
+Trading
+No representation is made as to the existence of a market for the Certificates. BNP Paribas Arbitrage S.N.C.
+will endeavour to make a secondary market in the Certificates, subject to it being satisfied that normal
+market conditions prevail. Any prices indicated will be dependent upon factors affecting or likely to affect
+the value of the Certificates such as, but not limited to, the remaining time to the Redemption Date, the
+outstanding principal amount, the Issuer's or, if applicable, the Guarantor's credit risk, the performance and
+volatility of the underlying asset, interest rates, exchange rates, credit spreads, and any incidental costs. To
+the extent BNP Paribas Arbitrage S.N.C. holds Certificates that it can offer and subject to it being satisfied
+that normal market conditions prevail, such prices will have a bid-offer spread no greater than 1%.
+Holders should be aware that the secondary market price for any Certificate quoted on or after the fourth
+(4th) Clearing System Business Day preceding any date on which the Issuer is due to make a payment
+thereon, shall exclude the amount so payable per Certificate. The Holder of the Certificates on the record
+date, as determined by the rules of the relevant Clearing System, shall be entitled to receive or retain any
+such amount on the due date for payment thereof.
+Initial
+Delivery versus payment.
+Settlement
+BNP Paribas Arbitrage S.N.C. will settle through Clearstream 81851.
+Settlement must be made in Nominal.
+Tax
+TK7
+Classification
+Fees
+In connection with the offer and sale of the Certificates, the distributor will acquire the Certificates
+from BNP Paribas Arbitrage S.N.C. at a discount to the Issue Price or at the Issue Price. If the
+distributor acquires the Certificates at the Issue Price, BNP Paribas Arbitrage S.N.C. will pay to
+the distributor a distribution fee. Such amounts received by the distributor may be in addition to
+the brokerage cost/fee normally applied by the distributor. Further information regarding such
+discount/distribution fee is available from the distributor on request.
+The purchaser is hereby advised that such discount fee may be retained by the distributor.
+Selling
+Restrictions
+As set out in the Base Prospectus.
+_____________________________________________________________________________________________________________________________
+__________________________________________
+IMPORTANT INFORMATION
+This term sheet contains a proposal for discussion purposes only and (unless otherwise stated) is indicative only. BNP Paribas gives no assurance
+that any Certificate will be issued or any transaction will be entered into on the basis of these indicative terms. The information contained in this
+document is provided to you on a strictly confidential basis and you agree that it may not be distributed by you to other parties or potential
+purchasers of Certificates other than with our prior written consent and in compliance with applicable securities laws and regulations in force in
+the jurisdiction(s) in which you offer the Securities described in this document. If you have received a copy of this document from anyone other
+than BNP Paribas, it will not contain all the information required for you to assess its contents. This document is not intended for any Retail Client,
+as defined in Directive 2004/39/EC ("MiFID") and the relevant implementing measures in any EU member state.
+No action has been or will be taken in any jurisdiction that would, or is intended to, permit a public offering of the Certificates.
+The Certificates are sold to investors on the understanding that they will comply with all relevant securities laws and public offer requirements in
+the jurisdictions in which the Certificates are placed or resold, including, without limitation, Directive 2003/71/EC (the EU Prospectus Directive) as
+amended (which includes the amendments made by Directive 2010/73/EU the "2010 PD Amending Directive") and the relevant implementing
+measures in any EU member state. Where the investor of the Certificates is not the only purchaser of the Certificates, any public offer exemption
+relying solely on offers only being made to a restricted number of investors (classified by type or location, as applicable) may not be available.
+The Certificates may not be offered or sold in the United States or to U.S. persons at any time (as defined in regulation S under the U.S. Securities
+Act of 1933 or the U.S. internal revenue code). The Certificates have not been and will not be registered under the U.S. Securities Act of 1933,
+as amended, or the securities laws of any state in the United States, and are subject to U.S. tax requirements. In purchasing the Certificates you
+Equity Derivatives Solutions / Structured Products - Luxemburg
+3
+
+BNP PARIBAS
+CORPORATE & INSTITUTIONAL BANKING
+The bank for a changing world
+represent and warrant that you are neither located in the United States nor a U.S. person and that you are not purchasing for the account or
+benefit of any such person. The Certificates may not be offered, sold, transferred or delivered without compliance with all applicable securities
+laws and regulations.
+Investors should note that BNP Paribas acting as Guarantor is licensed as a credit institution in France and as such is subject to the new resolution
+regime introduced by the EU Bank Recovery and Resolution Directive of 15 May 2014. This new regulation, among others, gives resolution
+authorities the power to amend the key terms of the Guarantee, to reduce the amounts payable by the Guarantor under the terms of the Guarantee
+(including a reduction to zero) and convert the amounts due under the Guarantee into shares or other securities. You may not be able to recover
+all or even part of the amount due under the Certificates (if any) from the Guarantor under the Guarantee or you may receive a different security
+issued by the Guarantor (or another person) in place of the amount (if any) due to you under the Certificates by the Issuer, which may be worth
+significantly less than the amount due to you under the Certificates at expiry.
+Risk Analysis
+The Securities have no capital protection at any time and there can be a partial or total loss of any capital invested. Investment in the Securities
+is therefore highly speculative and should only be considered by persons who can afford to lose their entire investment.
+BNP Paribas is not providing the recipients of this document with any investment advice or recommendation to enter into any potential transaction.
+Any purchaser of Certificates, other than a BNP Paribas counterparty or distributor, will be purchasing the Certificates from such counterparty or
+distributor and will have no contractual relationship with BNP Paribas or any of its affiliates. In particular BNP Paribas will not be responsible for
+assessing the appropriateness or suitability of an investment in the Certificates in relation to such third parties. This document should be read
+together with the Base Prospectus and the applicable Final Terms for the Certificates. Any proposed issuance described in this document cannot
+be fully assessed without a careful review of the terms and conditions contained in the Base Prospectus and the Final Terms. In particular,
+potential investors should carefully read the sections headed "Risk Factors" in the Base Prospectus and the Final Terms for a full description of
+the potential risks associated with the Certificates, and "Offering and Sale", for certain limitations on the purchase and onward sales of the
+Certificates.
+Any indicative price quotations, investment cases or market analysis contained in this document or any related marketing materials we may have
+provided to you have been prepared on assumptions and parameters that reflect our good faith judgement or selection but must be subject to
+your own independent analysis and due diligence before you make any investment decision. Please note that there can be conflicts of interests
+between BNP Paribas and potential investors (see below) and we can therefore not assume any responsibility for the financial consequences of
+your investment decision, which must be independent. We require that you undertake your own independent due diligence and avail yourself of
+your own advisors in order to assess the suitability of Certificates in relation to your own financial objectives. Accordingly, if you decide to purchase
+Certificates, you will be deemed to understand and accept the terms, conditions and risks associated with the Certificates. You will also be deemed
+to act for your own account, to have made your own independent decision to purchase the Certificates and to declare that such transaction is
+appropriate for you based upon your own judgement the advice from such advisers as you have deemed necessary to consult. Each holder of
+the Certificates shall also be deemed to assume and be responsible for any and all taxes of any jurisdiction or governmental or regulatory authority
+and should consult their own tax advisers in this respect.
+You should note and assess for the purposes of any investment decision that members of the BNP Paribas group may face possible conflicts of
+interest in connection with certain duties under the Certificates, such as trading in an underlying for their own account or for the account of others,
+receiving fees in a number of capacities or taking market views which are not consistent with the objective of the Certificates.
+BNP Paribas is lead supervised by the ECB and the ACPR and is authorised by the ECB and the ACPR in France. BNP Paribas is incorporated
+in France with Limited Liability. Registered Office: 16 Boulevard des Italiens, 75009 Paris, France. www.bnpparibas.com.
+Equity Derivatives Solutions / Structured Products - Luxemburg
+4
+
